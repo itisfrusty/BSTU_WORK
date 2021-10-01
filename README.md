@@ -18,7 +18,12 @@
 
 ## Task 1. Modeling controlled object: 
 Write program (C++), which simulate object temperature.
-Code:
+
+<p align="center">
+  <img src ="https://github.com/MrSoulfinder/universityWork_cpp/blob/main/sem_5/1.png">
+</p>
+
+##### Code:
 ```C++
 #include <iostream>
 #include <string>
@@ -89,4 +94,13 @@ int main() {
         }
     }
 }
-```C++
+```
+
+##### Result:
+<p align="center">
+  <img src ="https://github.com/MrSoulfinder/universityWork_cpp/blob/main/sem_5/2.png">
+</p>
+
+<p align="center">
+  <img src ="https://github.com/MrSoulfinder/universityWork_cpp/blob/main/sem_5/3.png">
+</p>
