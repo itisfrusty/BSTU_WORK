@@ -9,7 +9,7 @@
 
 
 	                                	Completed by the 3rd year student of 
-                                    Faculty of Electronic Information Systems
+										Faculty of Electronic Information Systems
 	                                	the group AC-55 Chernookiy I.V.
                                  		Checked by Ivanuk D.S.
 
