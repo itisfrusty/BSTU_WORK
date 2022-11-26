@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_2\lab_2\lab_2\Source.cpp(27,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_2\lab_2\lab_2\Source.cpp(62,40): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_2\lab_2\lab_2\Source.cpp(83,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_2\lab_2\lab_2\Source.cpp(18,3): warning C4101: y: неиспользованная локальная переменная
+  lab_2.vcxproj -> C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_2\lab_2\Debug\lab_2.exe

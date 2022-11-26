@@ -1,0 +1,5 @@
+﻿  NeuralNet.cpp
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_4\lab_4\Laba1neuron\NeuralNet.cpp(76,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_4\lab_4\Laba1neuron\NeuralNet.cpp(77,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_4\lab_4\Laba1neuron\NeuralNet.cpp(88,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba1neuron.vcxproj -> C:\Education\University\АS-55\4 kurs\7 sem\IMOD (Savickiy)\labs_my\lab_4\lab_4\x64\Debug\Laba4neuron.exe
