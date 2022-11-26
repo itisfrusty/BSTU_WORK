@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_5\lab_5\Source.cpp(14,25): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_5\lab_5\Source.cpp(15,30): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_5\lab_5\Source.cpp(19,25): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_5\lab_5\Source.cpp(20,30): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
+  lab_5.vcxproj -> C:\Education\University\3 kurs\5 sem\OIT\labs\lab_5\lab_5\Debug\lab_5.exe

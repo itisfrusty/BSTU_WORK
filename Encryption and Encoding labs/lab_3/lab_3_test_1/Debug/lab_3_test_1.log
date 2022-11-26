@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Huffman_tree.h(42,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Huffman_tree.h(49,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Huffman_tree.h(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Huffman_tree.h(106,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Huffman_tree.h(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(36,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(67,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(91,2): error C3861: opener: идентификатор не найден
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3_test_1\Source.cpp(128,21): warning C4018: <: несоответствие типов со знаком и без знака

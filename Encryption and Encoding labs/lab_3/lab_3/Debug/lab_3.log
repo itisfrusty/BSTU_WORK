@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\freqtable.h(128,19): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\freqtable.h(224,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\freqtable.h(246,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\freqtable.h(284,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\huffman.h(78,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\huffman.h(108,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\huffman.h(152,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\huffman.h(200,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\huffman.h(232,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\archive.h(116,14): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\archive.h(136,10): warning C4244: инициализация: преобразование "unsigned long" в "char", возможна потеря данных
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\archive.h(208,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  lab_3.vcxproj -> C:\Education\University\3 kurs\5 sem\OIT\labs\lab_3\lab_3\Debug\lab_3.exe

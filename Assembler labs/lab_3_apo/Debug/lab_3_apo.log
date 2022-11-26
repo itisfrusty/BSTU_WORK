@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(9,15): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "small"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(10,10): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "stack"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(11,10): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "data"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(12,14): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(13,14): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(14,14): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(15,14): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(16,16): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "db"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(17,20): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "bad token"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(18,20): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "dd"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(19,10): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "code"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(21,17): error C2018: неизвестный знак "0x40"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(21,9): error C2244: std::data: не удается сопоставить определение функции существующему объявлению
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(21,9): error C2443: конфликт размеров операндов
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(27,13): error C2443: конфликт размеров операндов
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(43,9): error C2443: конфликт размеров операндов
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(56,9): error C2432: недопустимая ссылка на 16-разрядные данные в "первый операнд"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(65,13): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "второй операнд"; обнаружено "bad token"
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_3_apo\Source.cpp(83,17): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "main"
+  Source1.cpp
+  Создание кода...

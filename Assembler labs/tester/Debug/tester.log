@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Education\University\АS-55\3 kurs\6 sem\AIPO\labs\tester\Source.cpp(10,7): warning C4101: incorsimb: неиспользованная локальная переменная
+C:\Education\University\АS-55\3 kurs\6 sem\AIPO\labs\tester\Source.cpp(9,6): warning C4101: num: неиспользованная локальная переменная
+C:\Education\University\АS-55\3 kurs\6 sem\AIPO\labs\tester\Source.cpp(8,7): warning C4101: simb: неиспользованная локальная переменная
+  tester.vcxproj -> C:\Education\University\АS-55\3 kurs\6 sem\AIPO\labs\tester\Debug\tester.exe

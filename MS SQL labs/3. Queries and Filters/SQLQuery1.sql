@@ -1,0 +1,1 @@
+select No_ychitelia, FIO from TablicaTri order by No_ychitelia asc;

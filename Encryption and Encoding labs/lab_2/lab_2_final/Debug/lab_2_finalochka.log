@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_2\lab_2_finalochka\Source.cpp(55): warning C4715: entropVder: значение возвращается не при всех путях выполнения
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_2\lab_2_finalochka\Source.cpp(34): warning C4715: koren: значение возвращается не при всех путях выполнения
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_2\lab_2_finalochka\Source.cpp(68): warning C4715: comecod: значение возвращается не при всех путях выполнения
+  lab_2_finalochka.vcxproj -> C:\Education\University\3 kurs\5 sem\OIT\labs\lab_2\lab_2_finalochka\Debug\lab_2_finalochka.exe

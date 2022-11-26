@@ -1,0 +1,2 @@
+﻿Source1.obj : error LNK2005: _main уже определен в Source.obj
+C:\Education\University\АС-55\3 kurs\6 sem\АиПО\labs\lab_1_apo\Debug\lab_1_apo.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

@@ -1,0 +1,9 @@
+﻿LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/FORCE"
+ftable.obj : warning LNK4006: "public: void __thiscall ftable::buildTable(void)" (?buildTable@ftable@@QAEXXZ) уже определен в main.obj; второе определение пропущено
+ftable.obj : warning LNK4006: "protected: double __thiscall ftable::entropy(void)" (?entropy@ftable@@IAENXZ) уже определен в main.obj; второе определение пропущено
+ftable.obj : warning LNK4006: "protected: void __thiscall ftable::length(void)" (?length@ftable@@IAEXXZ) уже определен в main.obj; второе определение пропущено
+ftable.obj : warning LNK4006: "public: void __thiscall ftable::newFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?newFile@ftable@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в main.obj; второе определение пропущено
+ftable.obj : warning LNK4006: "protected: void __thiscall ftable::sortAndDeleteZeros(void)" (?sortAndDeleteZeros@ftable@@IAEXXZ) уже определен в main.obj; второе определение пропущено
+ftable.obj : warning LNK4006: "public: void __thiscall ftable::writeToFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?writeToFile@ftable@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в main.obj; второе определение пропущено
+C:\Education\University\3 kurs\5 sem\OIT\labs\lab_2\lab_2_oit\Debug\lab_2_oit.exe : warning LNK4088: образ создается из-за параметра /FORCE; образ нельзя запустить
+  lab_2_oit.vcxproj -> C:\Education\University\3 kurs\5 sem\OIT\labs\lab_2\lab_2_oit\Debug\lab_2_oit.exe

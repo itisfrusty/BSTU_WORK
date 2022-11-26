@@ -1,0 +1,160 @@
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\lab_5.exe.config
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\lab_5.exe
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\lab_5.pdb
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.csproj.AssemblyReference.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form1.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form2.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.exe
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.pdb
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form3.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form4.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form5.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form6.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form7.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\EnvDTE.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\stdole.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\Microsoft.MSXML.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form8.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\RdlCompile.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\RdlCompile.compiled
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.csproj.CopyComplete
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form9.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5\lab_5\obj\Debug\lab_5.Form10.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\lab_5.exe.config
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\lab_5.exe
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\lab_5.pdb
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\EnvDTE.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\stdole.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\Microsoft.MSXML.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.csproj.AssemblyReference.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form1.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form10.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form2.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form3.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form4.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form5.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form6.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form7.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form8.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Form9.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.Properties.Resources.resources
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.csproj.GenerateResource.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\RdlCompile.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\RdlCompile.compiled
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.csproj.CoreCompileInputs.cache
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.csproj.CopyComplete
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.exe
+C:\Education\University\3 kurs\5 sem\BiBD\labs\lab_5 and 6\lab_5\obj\Debug\lab_5.pdb
